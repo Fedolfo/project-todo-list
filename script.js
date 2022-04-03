@@ -26,8 +26,6 @@ inputi.addEventListener('keypress', (g) => {
   }
 });
 
-// Referência Josué Lobo//
-
 listaDeTarefas.addEventListener('click', (event) => {
   const alvo = event.target;
   if (alvo.className === 'item-list') {
