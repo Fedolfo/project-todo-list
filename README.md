@@ -1,4 +1,4 @@
-# Projeto todo list
+# Projeto lista de tarefas
 
 ### Sobre o projeto
 
